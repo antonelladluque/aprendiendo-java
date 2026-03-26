@@ -8,7 +8,7 @@ Este repositorio documenta mi proceso de aprendizaje en **Java**. La idea es ir 
 * Practicar programación orientada a objetos (POO)
 * Resolver problemas usando lógica y buenas prácticas
 * Construir una base sólida para proyectos más complejos
-
+* 
 ## 📚 Contenido
 
 Este repositorio incluye:
