@@ -1,29 +1,45 @@
-# Aprendiendo Java ☕
+# ☕ Aprendiendo Java
 
-Este repositorio lo estoy usando para practicar y aprender Java desde cero. La idea es ir subiendo todo lo que voy haciendo mientras avanzo: ejercicios, pruebas y algunos proyectos chicos.
+Este repositorio documenta mi proceso de aprendizaje en **Java**. La idea es ir subiendo ejercicios, proyectos pequeños y ejemplos prácticos a medida que avanzo.
 
-## ¿Qué hay acá?
+## 📌 Objetivos
 
-Por ahora estoy trabajando con cosas básicas como:
+* Entender los fundamentos del lenguaje Java
+* Practicar programación orientada a objetos (POO)
+* Resolver problemas usando lógica y buenas prácticas
+* Construir una base sólida para proyectos más complejos
 
-* Variables y tipos de datos
-* Condicionales (if, switch)
-* Bucles (for, while)
-* Funciones
-* Programación orientada a objetos (clases, objetos, herencia, etc.)
+## 📚 Contenido
 
-También voy agregando ejemplos y pequeños programas para ir entendiendo mejor cómo funciona todo.
+Este repositorio incluye:
 
-## Objetivo
+* Ejercicios básicos (variables, condicionales, bucles)
+* Prácticas de POO (clases, objetos, herencia, encapsulamiento)
+* Manejo de colecciones (listas, mapas, etc.)
+* Pequeños proyectos para aplicar lo aprendido
 
-Más que nada, entender bien las bases de Java y ganar práctica escribiendo código. No busco que todo esté perfecto, sino ir mejorando con el tiempo.
+## 🚀 Progreso
 
-## Notas
+El contenido se irá actualizando constantemente a medida que avance en el aprendizaje.
 
-* Puede haber código medio desordenado o repetido
-* Algunas cosas son solo pruebas
-* Voy actualizando el repo a medida que aprendo cosas nuevas
+## 🛠️ Tecnologías
+
+* Java
+* IDEs como IntelliJ IDEA / Eclipse (dependiendo del caso)
+
+## 📖 Notas
+
+Este repositorio es principalmente educativo, por lo que puede contener:
+
+* Código simple o no optimizado
+* Ejercicios repetitivos
+* Pruebas y experimentos
+
+## 🤝 Contribuciones
+
+No es un proyecto colaborativo por ahora, pero cualquier sugerencia o consejo es bienvenido.
 
 ---
 
-💡 Aprender programación es un proceso continuo — este repositorio refleja ese camino.
+💡 *Aprender programación es un proceso continuo — este repositorio refleja ese camino.*
+
