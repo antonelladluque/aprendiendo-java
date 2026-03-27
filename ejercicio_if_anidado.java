@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+
 public class Main {
     public static void main(String[] args) {
 /* varios clientes:
@@ -10,7 +9,8 @@ el programa debe solicitar por teclado dos datos:
     el tipo de estacionamiento
 
  */
-/*      1) pedir patente
+/*      LOGICA DE LA SOLUCION DEL PROGRAMA
+        1) pedir patente
 
         2) tipo de estaccionamiento
             a) por hora 3usdxhora
