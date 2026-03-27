@@ -39,6 +39,5 @@ Este repositorio es principalmente educativo, por lo que puede contener:
 
 No es un proyecto colaborativo por ahora, pero cualquier sugerencia o consejo es bienvenido.
 
----
 
 💡 *Aprender programación es un proceso continuo — este repositorio refleja ese camino.*
